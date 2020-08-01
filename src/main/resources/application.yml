@@ -1,0 +1,10 @@
+spring:
+  kafka:
+    consumer:
+      group-id: CUG-demo1
+      bootstrap-servers:
+        - localhost:9092
+
+topic-name: kafka-producer-demo1
+
+
